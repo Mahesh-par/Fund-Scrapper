@@ -34,7 +34,7 @@ const chrome = spawn(
 );
 
 chrome.unref();
-
+  
 console.log('====================================================');
 console.log('CHROME IS OPEN!');
 console.log('Please log in to DeepSeek manually with Google.');
